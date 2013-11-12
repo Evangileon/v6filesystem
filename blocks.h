@@ -32,5 +32,9 @@ struct Head_freelist {
 	uint padding[512 - MAX_NINODE - 1];
 };
 
+struct Block {
+	uint data[512];
+};
+
 
 #endif
