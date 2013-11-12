@@ -1,0 +1,575 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"fo",
+				"format"
+			],
+			[
+				"thre",
+				"thread_id"
+			],
+			[
+				"th",
+				"thread_num"
+			],
+			[
+				"co",
+				"common"
+			],
+			[
+				"MA",
+				"MAX_THREAD"
+			],
+			[
+				"in",
+				"inc	#include \"…\""
+			],
+			[
+				"M",
+				"Multiply"
+			],
+			[
+				"Se",
+				"SetMultiplyStrategy"
+			],
+			[
+				"sta",
+				"strategy"
+			],
+			[
+				"Ge",
+				"GetRows"
+			],
+			[
+				"ro",
+				"row_ready"
+			],
+			[
+				"pth",
+				"pthread_mutex_unlock"
+			],
+			[
+				"row",
+				"row_ready_mutex"
+			],
+			[
+				"pt",
+				"pthread_mutex_t"
+			],
+			[
+				"s",
+				"static"
+			],
+			[
+				"G",
+				"GetColumns"
+			],
+			[
+				"ma",
+				"mat_B"
+			],
+			[
+				"mat",
+				"mat_A"
+			],
+			[
+				"NU",
+				"NUM_THREAD"
+			],
+			[
+				"Mu",
+				"MultiThreadStrategy"
+			],
+			[
+				"t",
+				"thread_id"
+			],
+			[
+				"pr",
+				"private"
+			],
+			[
+				"_",
+				"__PROG2_YU_H__"
+			],
+			[
+				"de",
+				"def	#ifndef … #define … #endif"
+			],
+			[
+				"S",
+				"Strategy"
+			],
+			[
+				"cla",
+				"class	class-..-(class)"
+			],
+			[
+				"ca",
+				"class"
+			],
+			[
+				"Sin",
+				"SingleThreadStrategy::Multiply"
+			],
+			[
+				"st",
+				"start_thread"
+			],
+			[
+				"en",
+				"end"
+			],
+			[
+				"el",
+				"else"
+			],
+			[
+				"n",
+				"num"
+			],
+			[
+				"r",
+				"rows"
+			],
+			[
+				"re",
+				"return"
+			],
+			[
+				"N",
+				"NUMBER_LIMIT"
+			],
+			[
+				"def",
+				"define"
+			],
+			[
+				"ra",
+				"rand"
+			],
+			[
+				"f",
+				"for	For Loop"
+			],
+			[
+				"incl",
+				"include/cstdlib"
+			],
+			[
+				"inc",
+				"include"
+			],
+			[
+				"C",
+				"CXXFLAGS"
+			],
+			[
+				"Ex",
+				"EXE2"
+			],
+			[
+				"E",
+				"EXE1"
+			],
+			[
+				"O",
+				"OBJ1"
+			],
+			[
+				"p",
+				"prog2"
+			],
+			[
+				"c",
+				"columns"
+			],
+			[
+				"I",
+				"i"
+			],
+			[
+				"e",
+				"element"
+			],
+			[
+				"Ma",
+				"Matrix::M"
+			],
+			[
+				"m",
+				"matrix"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "initfs.c",
+			"settings":
+			{
+				"buffer_size": 206,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 375.0,
+		"selected_items":
+		[
+			[
+				"sta",
+				"SublimeGDB: Start Debugging"
+			],
+			[
+				"stop",
+				"SublimeGDB: Stop Debugging"
+			],
+			[
+				"gdb",
+				"SublimeGDB: Start Debugging"
+			],
+			[
+				"Package Control: i",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control:r",
+				"Package Control: Remove Package"
+			],
+			[
+				"debug",
+				"SublimeGDB: Start Debugging"
+			],
+			[
+				"for",
+				"Format Code"
+			],
+			[
+				"alignm",
+				"Preferences: Alignment File Settings – Default"
+			],
+			[
+				"Package Control: re",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: I",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 579.0
+	},
+	"console":
+	{
+		"height": 202.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/leageon/build/matrix/matrix.cc",
+		"/home/leageon/build/matrix/common.h",
+		"/usr/include/pthread.h",
+		"/home/leageon/build/matrix/matrix.h",
+		"/home/leageon/build/matrix/matrix.sublime-project",
+		"/home/leageon/.config/sublime-text-2/Packages/SublimeGDB/SublimeGDB.sublime-settings",
+		"/home/leageon/.config/sublime-text-2/Packages/GoSublime/GoSublime.sublime-settings",
+		"/home/leageon/build/matrix/prog1.cc",
+		"/home/leageon/.config/sublime-text-2/Packages/CodeFormatter/CodeFormatter.sublime-settings",
+		"/home/leageon/.config/sublime-text-2/Packages/Terminal/Base File.sublime-settings",
+		"/home/leageon/.emacs",
+		"/home/leageon/.config/sublime-text-2/Packages/Default/Preferences.sublime-settings",
+		"/home/leageon/.config/sublime-text-2/Packages/User/Preferences.sublime-settings",
+		"/home/leageon/build/matrix/Makefile",
+		"/home/leageon/build/matrix/prog2.h",
+		"/usr/include/c++/4.6.3/cstdlib",
+		"/home/leageon/Downloads/万能Makefile.sh",
+		"/usr/include/stdlib.h",
+		"/home/leageon/.config/sublime-text-2/Packages/SublimeCodeIntel/SublimeCodeIntel.sublime-settings",
+		"/home/leageon/.config/sublime-text-2/Packages/User/Default (Linux).sublime-keymap",
+		"/home/leageon/.config/sublime-text-2/Packages/SublimeCodeIntel/Default (Linux).sublime-keymap",
+		"/home/leageon/Downloads/writing_an_useful_makefile/Makefile",
+		"/home/leageon/.config/sublime-text-2/Packages/Default/Default (Linux).sublime-keymap",
+		"/home/leageon/.config/sublime-text-2/Packages/Alignment/Default (Linux).sublime-keymap",
+		"/home/leageon/.config/sublime-text-2/Packages/Alignment/Base File.sublime-settings",
+		"/home/leageon/.config/sublime-text-2/Packages/SideBarEnhancements/messages/11.13.2012.1305.0.txt",
+		"/home/leageon/build/matrix/matrix.cpp",
+		"/usr/share/applications/sublime-text.desktop",
+		"/etc/profile",
+		"/home/leageon/.config/sublime-text-2/Packages/GoSublime/USAGE.md",
+		"/home/leageon/.config/sublime-text-2/Packages/GoSublime/CHANGELOG.md",
+		"/usr/share/applications/defaults.list"
+	],
+	"find":
+	{
+		"height": 54.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"DEBUG",
+			"DEBUG(\"Row %d computed\\n\", row)",
+			"DEBUG(\"Row %d computed\\n\", row);",
+			"pthread_create",
+			"Rand",
+			"EXECUTABLE2",
+			"rename",
+			"patsubst",
+			"lt",
+			"gedit.desktop"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"EXE2",
+			"sublime-text.desktop"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "initfs.c",
+					"settings":
+					{
+						"buffer_size": 206,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								138,
+								138
+							]
+						],
+						"settings":
+						{
+							"codeintel": true,
+							"codeintel_config":
+							{
+								"JavaScript":
+								{
+									"codeintel_max_recursive_dir_depth": 2,
+									"codeintel_scan_files_in_project": false,
+									"javascriptExtraPaths":
+									[
+									]
+								},
+								"PHP":
+								{
+									"codeintel_max_recursive_dir_depth": 5,
+									"codeintel_scan_files_in_project": false,
+									"phpExtraPaths":
+									[
+									]
+								},
+								"Python":
+								{
+									"env":
+									{
+									}
+								}
+							},
+							"codeintel_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_live": true,
+							"codeintel_live_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_max_recursive_dir_depth": 10,
+							"codeintel_scan_exclude_dir":
+							{
+								"JavaScript":
+								[
+									"/build/",
+									"/min/"
+								]
+							},
+							"codeintel_scan_files_in_project": true,
+							"codeintel_selected_catalogs":
+							[
+								"PyWin32",
+								"jQuery",
+								"Rails"
+							],
+							"codeintel_snippets": true,
+							"codeintel_syntax_map":
+							{
+								"Python Django": "Python"
+							},
+							"codeintel_tooltips": "popup",
+							"sublime_auto_complete": true,
+							"syntax": "Packages/C++/C.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 44.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.GoSublime-main-output":
+	{
+		"height": 168.0
+	},
+	"output.GoSublime-output":
+	{
+		"height": 166.0
+	},
+	"output.MarGo-output":
+	{
+		"height": 166.0
+	},
+	"output.exec":
+	{
+		"height": 103.0
+	},
+	"replace":
+	{
+		"height": 78.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true
+}
