@@ -3,7 +3,7 @@
 
 #include "common.h"
 
-struct Inode {
+struct inode {
     u_short flags;
     char nlinks;
     char uid;

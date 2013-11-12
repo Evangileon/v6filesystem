@@ -2,7 +2,7 @@
 #include "blocks.h"
 
 extern int curr_fd;
-extern struct Superblock curr_superblock;
+extern struct super_block curr_superblock;
 
 void init_superblock(int fd, int bsize, int isize) {
 	//struct Superblock superblock;
@@ -12,9 +12,9 @@ void init_superblock(int fd, int bsize, int isize) {
 	write_superblock(&curr_superblock);
 }
 
-inline void write_superblock(struct Superblock *superblock) {
+inline void write_superblock(struct super_block *superblock) {
 	int bytes = 0;
-	if((bytes = write(curr_fd, &superblock, sizeof(struct Superblock)) < 0 ) {
+	if((bytes = write(curr_fd, &superblock, sizeof(struct super_block)) < 0 ) {
 		fprintf(stderr, "Error in write th superblock errno = %d\n", -bytes);
 		exit(errno);
 	}

@@ -3,12 +3,12 @@
 
 ##include "common.h"
 
-struct V6File {
+struct V6_file {
 	ushort inumber;
 	ushort filename[7];
 };
 
-typedef struct V6File FileEntry;
+typedef struct V6_file FileEntry;
 
 
 #endif

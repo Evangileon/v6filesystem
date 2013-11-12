@@ -9,8 +9,8 @@ int main(int argc, int** argv) {
   char* v6_filename = argv[1];
   char* num_block_s = argv[2];
   char* num_inode_s = argv[3];
-  struct Superblock superblock;
+  struct super_block superblock;
   printf("%ld\n", sizeof(superblock));
-  printf("%ld\n", sizeof(struct Head_freelist));
+  printf("%ld\n", sizeof(struct head_freelist));
   
 }
